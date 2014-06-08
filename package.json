@@ -1,10 +1,10 @@
 {
-    "name": "pngjs",
-    "version": "0.4.0",
+    "name": "node-pngjs",
+    "version": "0.0.1",
     "description": "Simple PNG encoder/decoder",
-    "author": "Kuba Niegowski",
+    "author": "K_Reverter <kunhualqk@gmail.com>",
     "contributors": [],
-    "homepage": "https://github.com/niegowski/node-pngjs/",
+    "homepage": "https://github.com/kunhualqk/node-pngjs/",
     "keywords" : [
         "png"
     ],
